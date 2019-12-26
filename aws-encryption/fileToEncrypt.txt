@@ -1,0 +1,1 @@
+Secret information to encrypt (larger that 4 KB).
